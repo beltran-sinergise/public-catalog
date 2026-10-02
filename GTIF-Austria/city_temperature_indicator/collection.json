@@ -2,7 +2,7 @@
   "type": "Collection",
   "id": "city_temperature_indicator",
   "stac_version": "1.1.0",
-  "description": "This dataset provides high-resolution (100 m) air temperature forecasts and derived heating and cooling degree days for Vienna. The data shown in the explorer are example results from a heatwave in June/July 2019.\n\nAir temperature is simulated hourly on a 100 m grid using urban-specific information, including building density, land cover, vegetation, and anthropogenic heat emissions. This allows identification of neighbourhood-scale heat hotspots and temperature variations that cannot be captured by standard regional weather models.\n\n**Displayed variables**\n\n* 2 m Air Temperature (°C)\nHourly air temperature at pedestrian level, resolved at 100 m.\n* Cooling Degree Days (CDD)\n    Indicator of cooling demand. High values highlight areas and times where air conditioning or other cooling measures may be needed.\n* Heating Degree Days (HDD)\n    Indicator of heating demand. During this heatwave, HDD values are zero, as heating is not required.\n\n**Purpose and use**\n* Assessment of urban heat stress and identification of vulnerable neighborhoods\n* Energy planning, including cooling demand for buildings",
+  "description": "This dataset provides high-resolution (100 m) air temperature forecasts and derived heating and cooling degree days for Vienna. The data shown in the explorer are example results from a heatwave in June/July 2019.\n\nAir temperature is simulated hourly on a 100 m grid using urban-specific information, including building density, land cover, vegetation, and anthropogenic heat emissions. This allows identification of neighbourhood-scale heat hotspots and temperature variations that cannot be captured by standard regional weather models.\n\nFurther background and context are available in the [narrative](https://gtif-austria.info/narratives/temperature-forecast).\n\n**Displayed variables**\n\n* 2 m Air Temperature (°C)\nHourly air temperature at pedestrian level, resolved at 100 m.\n* Cooling Degree Days (CDD)\n    Indicator of cooling demand. High values highlight areas and times where air conditioning or other cooling measures may be needed.\n* Heating Degree Days (HDD)\n    Indicator of heating demand. During this heatwave, HDD values are zero, as heating is not required.\n\n**Purpose and use**\n* Assessment of urban heat stress and identification of vulnerable neighborhoods\n* Energy planning, including cooling demand for buildings",
   "links": [
     {
       "rel": "root",
@@ -17,12 +17,19 @@
       "title": "City temperature forecast",
       "endpointtype": "COG source",
       "id": "citytemperaturecollection",
+      "themes": [
+        "Sustainable Cities"
+      ],
       "providers": [
         "GeoSphere"
       ],
+      "thumbnail": [
+        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_preview2.png"
+      ],
       "tags": [
         "city_temperature"
-      ]
+      ],
+      "collection_group": "Sustainable Cities"
     },
     {
       "rel": "child",
@@ -67,15 +74,15 @@
     },
     {
       "rel": "xyz",
-      "href": "https://s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2024_3857/default/g/{z}/{y}/{x}.jpeg",
+      "href": "https://s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2025_3857/default/g/{z}/{y}/{x}.jpeg",
       "type": "image/jpeg",
-      "title": "EOxCloudless 2024",
+      "title": "EOxCloudless 2025",
       "roles": [
         "baselayer",
         "visible"
       ],
-      "id": "cloudless-2024",
-      "attribution": "{ EOxCloudless 2024: <a href=\"//s2maps.eu\" target=\"_blank\">Sentinel-2 cloudless - s2maps.eu</a> by <a href=\"//eox.at\" target=\"_blank\">EOX IT Services GmbH</a> (Contains modified Copernicus Sentinel data 2024) }"
+      "id": "cloudless-2025",
+      "attribution": "{ EOxCloudless 2025: <a href=\"//s2maps.eu\" target=\"_blank\">Sentinel-2 cloudless - s2maps.eu</a> by <a href=\"//eox.at\" target=\"_blank\">EOX IT Services GmbH</a> (Contains modified Copernicus Sentinel data 2025) }"
     },
     {
       "rel": "xyz",
@@ -173,6 +180,9 @@
     }
   ],
   "summaries": {
+    "themes": [
+      "Sustainable Cities"
+    ],
     "thumbnail": [
       "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_preview2.png"
     ]

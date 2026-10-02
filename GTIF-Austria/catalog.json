@@ -46,17 +46,14 @@
     },
     {
       "rel": "child",
-      "href": "./GTIME_Layer/collection.json",
+      "href": "./GTIME/collection.json",
       "type": "application/json",
-      "title": "Multitemporal Vegetation Change Dynamics 2018 – 2021 – 2024",
-      "id": "GTIME_Layer",
-      "providers": [
-        "ZGIS"
-      ],
+      "title": "Multitemporal Vegetation Change Dynamics",
+      "id": "GTIME",
       "thumbnail": [
         "https://raw.githubusercontent.com/GTIF-Austria/public-catalog/refs/heads/main/assets/thumbnail_gtime_layer.png"
       ],
-      "collection_group": "EO Adaptation Services"
+      "collection_group": "Sustainable Cities"
     },
     {
       "rel": "child",
@@ -125,7 +122,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "KLIEN data - Ambient Heat Potential"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -146,7 +143,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "KLIEN data - Ambient Heat Potential"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -167,7 +164,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "KLIEN data - Ambient Heat Potential"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -188,14 +185,14 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "KLIEN Data – Wind Energy Potential"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
-      "href": "./hydro_eepot_w23/collection.json",
+      "href": "./hydro_2_eepot_w23/collection.json",
       "type": "application/json",
       "title": "Hydropower",
-      "id": "hydro_eepot_w23",
+      "id": "hydro_2_eepot_w23",
       "themes": [
         "Energy Transition"
       ],
@@ -209,7 +206,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "KLIEN Data – Hydropower Potential"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -230,7 +227,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "KLIEN data - Ambient Heat Potential"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -251,7 +248,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "KLIEN data - Ambient Heat Potential"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -272,7 +269,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "KLIEN data - Ambient Heat Potential"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -293,7 +290,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "KLIEN Data – Photovoltaic Energy Potential"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -314,7 +311,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "KLIEN Data – Photovoltaic Energy Potential"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -335,7 +332,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "KLIEN Data – Photovoltaic Energy Potential"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -356,7 +353,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "KLIEN Data – Photovoltaic Energy Potential"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -377,7 +374,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "KLIEN Data – Solar Thermal Heat Potential"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -398,7 +395,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "KLIEN Data – Solar Thermal Heat Potential"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -419,7 +416,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "Support for Energy Planning – Heat Demand and Supply Potentials"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -440,7 +437,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "Support for Energy Planning – Heat Demand and Supply Potentials"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -461,7 +458,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "Support for Energy Planning – Electricity Demand and Supply Potentials"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -482,7 +479,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "Support for Energy Planning – Electricity Demand and Supply Potentials"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -503,7 +500,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "Support for Energy Planning – Electricity Demand and Supply Potentials"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -524,7 +521,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "Support for Energy Planning – Electricity Demand and Supply Potentials"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -547,7 +544,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "Grid Capacities and Renewable Energy Potentials"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -570,7 +567,7 @@
       "agency": [
         "ESA"
       ],
-      "collection_group": "Grid Capacities and Renewable Energy Potentials"
+      "collection_group": "Study on Renewable Energy Potentials"
     },
     {
       "rel": "child",
@@ -875,7 +872,8 @@
       "id": "wr03_wind_nowcasting",
       "providers": [
         "GeoSphere"
-      ]
+      ],
+      "collection_group": "Energy Transition"
     },
     {
       "rel": "child",
@@ -903,7 +901,302 @@
       "id": "gtif-site-itentification-wind",
       "thumbnail": [
         "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-01-Wind Atlas/Thumbnail/Thumbnail Wind Potential.png"
-      ]
+      ],
+      "collection_group": "Energy Transition"
+    },
+    {
+      "rel": "child",
+      "href": "./heatrisk_vienna/collection.json",
+      "type": "application/json",
+      "title": "Hitzeriskobewertung nach IPCC",
+      "shortdescription": "Hitzerisikobewertung nach Risikokonzept des IPCC für das Beispiel Wien. Die Klimagefahr wird abgebildet durch eine Kombination von Klimadaten und Stadtklimaanalysen und mit Expostionsdaten der Bevölkerung nach Altersgruppen zu hochaufgelösten Hitzeexpostionskarten verschnitten. Die Risikobewertung wird durch Vulnerabilität in Form einen Overlaylayers besonders vulnerabler Einrichtungen und relevanter Infrastruktur vervollständigt.",
+      "id": "heatrisk_vienna",
+      "themes": [
+        "Sustainable Cities"
+      ],
+      "providers": [
+        "AIT Center for Energy"
+      ],
+      "thumbnail": [
+        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/Mockup_heatrisk.png"
+      ],
+      "collection_group": "Sustainable Cities"
+    },
+    {
+      "rel": "child",
+      "href": "./SCA/collection.json",
+      "type": "application/json",
+      "title": "DTA - Snow Covered Area",
+      "shortdescription": "Binary mask of snow covered area per pixel.",
+      "id": "SCA",
+      "providers": [
+        "Waterjade"
+      ],
+      "thumbnail": [
+        "https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/SCA.jpg"
+      ],
+      "agency": [
+        "ESA"
+      ],
+      "collection_group": "Hydrology"
+    },
+    {
+      "rel": "child",
+      "href": "./HS/collection.json",
+      "type": "application/json",
+      "title": "DTA - Snow Height",
+      "shortdescription": "Depth of the snowpack on the ground.",
+      "id": "HS",
+      "providers": [
+        "Waterjade"
+      ],
+      "thumbnail": [
+        "https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/HS.jpg"
+      ],
+      "agency": [
+        "ESA"
+      ],
+      "collection_group": "Hydrology"
+    },
+    {
+      "rel": "child",
+      "href": "./SNWMLT/collection.json",
+      "type": "application/json",
+      "title": "DTA - Snow Melt",
+      "shortdescription": "Melt rate in mm/day.",
+      "id": "SNWMLT",
+      "providers": [
+        "Waterjade"
+      ],
+      "thumbnail": [
+        "https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/SNWMLT.jpg"
+      ],
+      "agency": [
+        "ESA"
+      ],
+      "collection_group": "Hydrology"
+    },
+    {
+      "rel": "child",
+      "href": "./SWE/collection.json",
+      "type": "application/json",
+      "title": "DTA - Snow Water Equivalent",
+      "shortdescription": "Amount of water if the snowpack were melted.",
+      "id": "SWE",
+      "providers": [
+        "Waterjade"
+      ],
+      "thumbnail": [
+        "https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/SWE.jpg"
+      ],
+      "agency": [
+        "ESA"
+      ],
+      "collection_group": "Hydrology"
+    },
+    {
+      "rel": "child",
+      "href": "./SCA-L2-DEMO/collection.json",
+      "type": "application/json",
+      "title": "GTIF demo - Snow Covered Area",
+      "shortdescription": "Binary snow cover classification.",
+      "id": "SCA-L2-DEMO",
+      "providers": [
+        "Waterjade"
+      ],
+      "thumbnail": [
+        "https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/SCA_GTIF_DEMO.png"
+      ],
+      "collection_group": "Hydrology"
+    },
+    {
+      "rel": "child",
+      "href": "./HS-L2-DEMO/collection.json",
+      "type": "application/json",
+      "title": "GTIF demo - Snow Height",
+      "shortdescription": "Depth of snow on the ground.",
+      "id": "HS-L2-DEMO",
+      "providers": [
+        "Waterjade"
+      ],
+      "thumbnail": [
+        "https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/HS_GTIF_DEMO.png"
+      ],
+      "collection_group": "Hydrology"
+    },
+    {
+      "rel": "child",
+      "href": "./SWE-L2-DEMO/collection.json",
+      "type": "application/json",
+      "title": "GTIF demo - Snow Water Equivalent",
+      "shortdescription": "Amount of water if the snowpack were melted.",
+      "id": "SWE-L2-DEMO",
+      "providers": [
+        "Waterjade"
+      ],
+      "thumbnail": [
+        "https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/SWE_GTIF_DEMO.png"
+      ],
+      "collection_group": "Hydrology"
+    },
+    {
+      "rel": "child",
+      "href": "./SNWMLT-L2-DEMO/collection.json",
+      "type": "application/json",
+      "title": "GTIF demo - Snow Melt",
+      "shortdescription": "Daily snowmelt water runoff.",
+      "id": "SNWMLT-L2-DEMO",
+      "providers": [
+        "Waterjade"
+      ],
+      "thumbnail": [
+        "https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/SNWMLT_GTIF_DEMO.png"
+      ],
+      "collection_group": "Hydrology"
+    },
+    {
+      "rel": "child",
+      "href": "./climate_indicators/collection.json",
+      "type": "application/json",
+      "title": "Climate Indicators",
+      "id": "climate_indicators",
+      "themes": [
+        "Climate Change & Tourism"
+      ],
+      "providers": [
+        "GeoVille",
+        "Austria Tourism"
+      ],
+      "thumbnail": [
+        "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/gtif-at-ea/gtif_at_ea.png"
+      ],
+      "collection_group": "Climate Change & Tourism"
+    },
+    {
+      "rel": "child",
+      "href": "./tourism_uc3/collection.json",
+      "type": "application/json",
+      "title": "Alpine Tourism & Climate Dynamics",
+      "id": "tourism_uc3",
+      "themes": [
+        "Climate Change & Tourism"
+      ],
+      "providers": [
+        "GeoVille",
+        "Austria Tourism"
+      ],
+      "thumbnail": [
+        "https://picsum.photos/seed/tourismmap/300/300"
+      ],
+      "tags": [
+        "mobility"
+      ],
+      "collection_group": "Climate Change & Tourism"
+    },
+    {
+      "rel": "child",
+      "href": "./tourism_uc3_correlation/collection.json",
+      "type": "application/json",
+      "title": "Tourism & Climate Correlation Analysis",
+      "id": "tourism_uc3_correlation",
+      "themes": [
+        "Climate Change & Tourism"
+      ],
+      "providers": [
+        "GeoVille",
+        "Austria Tourism"
+      ],
+      "thumbnail": [
+        "https://picsum.photos/seed/picsum/536/354"
+      ],
+      "tags": [
+        "mobility",
+        "tourism",
+        "climate"
+      ],
+      "collection_group": "Climate Change & Tourism"
+    },
+    {
+      "rel": "child",
+      "href": "./tourism_uc2_indicator/collection.json",
+      "type": "application/json",
+      "title": "Snow Depth Anomaly",
+      "id": "tourism_uc2_indicator",
+      "themes": [
+        "Climate Change & Tourism"
+      ],
+      "providers": [
+        "GeoVille"
+      ],
+      "thumbnail": [
+        "https://picsum.photos/seed/picsum/536/354"
+      ],
+      "collection_group": "Climate Change & Tourism"
+    },
+    {
+      "rel": "child",
+      "href": "./dailytemperatureforecast/collection.json",
+      "type": "application/json",
+      "title": "Hourly urban temperature forecast",
+      "id": "dailytemperatureforecast",
+      "themes": [
+        "Sustainable Cities"
+      ],
+      "providers": [
+        "GeoSphere"
+      ],
+      "thumbnail": [
+        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_preview2.png"
+      ],
+      "tags": [
+        "daily_city_temperature"
+      ],
+      "collection_group": "Sustainable Cities"
+    },
+    {
+      "rel": "child",
+      "href": "./gtif_at_ew_snow_basin_data_indicator/collection.json",
+      "type": "application/json",
+      "title": "Alpine Hydropower Snow Potential Energy",
+      "id": "gtif_at_ew_snow_basin_data_indicator",
+      "themes": [
+        "Hydrology"
+      ],
+      "providers": [
+        "Waterjade",
+        "TIWAG",
+        "Sinergise Austria"
+      ],
+      "thumbnail": [
+        "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/gtif-at-ew/assets/achensee-thumbnail.jpg"
+      ],
+      "collection_group": "Hydrology"
+    },
+    {
+      "rel": "child",
+      "href": "./tourism_uc2_stats/collection.json",
+      "type": "application/json",
+      "title": "Climate Threats",
+      "id": "tourism_uc2_stats",
+      "themes": [
+        "Climate Change & Tourism"
+      ],
+      "providers": [
+        "GeoVille",
+        "Austria Tourism"
+      ],
+      "thumbnail": [
+        "https://picsum.photos/seed/picsum/536/354"
+      ],
+      "tags": [
+        "mobility",
+        "tourism",
+        "climate"
+      ],
+      "agency": [
+        "ESA"
+      ],
+      "collection_group": "Climate Change & Tourism"
     },
     {
       "rel": "self",
